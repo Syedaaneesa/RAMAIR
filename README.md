@@ -57,8 +57,6 @@ I handled every stage of the project — from planning to deployment:
 
 ### 🧩 Website Interface Previews
 
-| Homepage | Property Listing | Property Detail |
-|-----------|------------------|-----------------|
 ![Home page](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7B2BD941C5-2B0F-4DDD-9C67-13DD7FD01FCC%7D.png)
 ![Location-1](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7BED29F5E9-77FF-4C27-8706-12820792E3E4%7D.png)
 ![Location-2](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7B878390FA-86F6-4473-B70A-AD5BBB591AA3%7D.png)
