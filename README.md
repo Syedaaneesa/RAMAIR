@@ -64,7 +64,6 @@ I handled every stage of the project — from planning to deployment:
 ![Rooms Section](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7B878390FA-86F6-4473-B70A-AD5BBB591AA3%7D.png)
 ![Gallery Section](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7BD3ECAFF6-9DD5-4E49-8508-CC4B9990046D%7D.png)
 ![Home Page](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7B0B264AAE-121E-4745-8191-5FEAB2EFB30B%7D.png)
-> 📸 *All screenshots are from the live project — showcasing responsiveness, layout design, and user interaction flow.*
 
 ---
 
