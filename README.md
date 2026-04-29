@@ -81,13 +81,13 @@ Integrated map-based search functionality using the Google Maps API.
 
 ---
 
-## 📬 Contact
+##  Contact
 If you’re seeking expert WordPress or Elementor solutions, I’d be glad to collaborate—feel free to get in touch.
 
-**👤 Developer:** Syeda Aneesa  
-**📧 Email:** saneesa@zeestmedia.com      
-**🌍 Portfolio:** https://aneesa.zeestmedia.com
+** Developer:** Syeda Aneesa  
+** Email:** saneesa@zeestmedia.com      
+** Portfolio:** https://aneesa.zeestmedia.com
 
 ---
-## 📁 Repository Structure
+##  Repository Structure
 
