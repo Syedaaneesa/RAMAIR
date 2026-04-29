@@ -25,15 +25,15 @@ I oversaw every stage of the project, from initial planning through to final dep
 
 | Stage | Description |
 |--------|--------------|
-| 🎨 **Design & Planning** | Created wireframes and layout concepts for a professional and modern interface |
-| 🧩 **Theme Customization** | Customized WordPress theme using Elementor and custom CSS |
-| ⚙️ **Plugin Integration** | Integrated and configured essential plugins (SEO, Forms, Caching) |
-| 🧠 **Performance Optimization** | Optimized load speed, images, and scripts |
-| 🔐 **Testing & Deployment** | Tested across devices for responsiveness and user experience, then deployed live |
+|  **Design & Planning** | Created wireframes and layout concepts for a professional and modern interface |
+|  **Theme Customization** | Customized WordPress theme using Elementor and custom CSS |
+|  **Plugin Integration** | Integrated and configured essential plugins (SEO, Forms, Caching) |
+|  **Performance Optimization** | Optimized load speed, images, and scripts |
+|  **Testing & Deployment** | Tested across devices for responsiveness and user experience, then deployed live |
 
 ---
 
-## 🧰 Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **WordPress CMS**
 - **Elementor Page Builder**
@@ -49,7 +49,7 @@ I oversaw every stage of the project, from initial planning through to final dep
 
 ## 🖼️ Project Screenshots
 
-### 🧩 Website Interface Previews
+###  Website Interface Previews
 
 ![Home page](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7B2BD941C5-2B0F-4DDD-9C67-13DD7FD01FCC%7D.png)
 ![Location-1](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7BED29F5E9-77FF-4C27-8706-12820792E3E4%7D.png)
@@ -59,7 +59,7 @@ I oversaw every stage of the project, from initial planning through to final dep
 
 ---
 
-## 🧠 Learning & Efforts
+##  Learning & Efforts
 
 Strengthened my Elementor customization skills
 
@@ -71,7 +71,7 @@ Maintain a clean, modular, and consistent design system
 Manage the full WordPress deployment process from start to finish
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Added an advanced search filter to streamline office listing results.
 
