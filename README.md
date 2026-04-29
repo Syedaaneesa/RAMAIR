@@ -1,13 +1,13 @@
-# 🏢 Find Office Spaces – WordPress Project
+#  Find Office Spaces – WordPress Project
 
 A modern, fully responsive WordPress website designed to help professionals and businesses easily find the ideal office space. This project demonstrates my expertise in WordPress development, advanced Elementor design, and user-focused layouts, providing a fast, seamless, and visually engaging experience.
 
-## 🌐 Live Preview
+##  Live Preview
 🔗 [View Website](https://ramair.co/ramair-contractor-finder/)
 
 ---
 
-## 🛠️ Project Overview
+##  Project Overview
 This WordPress website is designed to streamline the discovery and exploration of office spaces. It combines modern design with robust functionality, featuring a clean layout, intuitive navigation, and seamless performance across all devices.
 **Key Highlights:**
 - Fully **responsive WordPress design** built with **Elementor**
@@ -19,7 +19,7 @@ This WordPress website is designed to streamline the discovery and exploration o
 
 ---
 
-## 💼 My Contributions
+##  My Contributions
 
 I oversaw every stage of the project, from initial planning through to final deployment.
 
