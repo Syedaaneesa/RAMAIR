@@ -3,7 +3,7 @@
 A modern, fully responsive WordPress website designed to help professionals and businesses easily find the ideal office space. This project demonstrates my expertise in WordPress development, advanced Elementor design, and user-focused layouts, providing a fast, seamless, and visually engaging experience.
 
 ##  Live Preview
-🔗 [View Website](https://ramair.co/ramair-contractor-finder/)
+ [View Website](https://ramair.co/ramair-contractor-finder/)
 
 ---
 
