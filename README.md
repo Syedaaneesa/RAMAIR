@@ -54,7 +54,7 @@ I oversaw every stage of the project, from initial planning through to final dep
 
 ---
 
-## 🖼️ Project Screenshots
+##  Project Screenshots
 
 ###  Website Interface Previews
 
