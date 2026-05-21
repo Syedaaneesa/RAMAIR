@@ -8,7 +8,8 @@ A modern and fully responsive WordPress website crafted to help professionals an
 ---
 
 ##  Project Overview
-This WordPress website is designed to streamline the discovery and exploration of office spaces. It combines modern design with robust functionality, featuring a clean layout, intuitive navigation, and seamless performance across all devices.
+This modern WordPress website is designed to simplify the search and exploration of office spaces. Combining sleek design with powerful functionality, it features clean layouts, intuitive navigation, and seamless responsiveness across all devices. Built for performance and user experience, the platform enables professionals and businesses to browse office listings efficiently through a smooth, engaging, and easy-to-use interface.
+
 **Key Highlights:**
 - Fully **responsive WordPress design** built using **Elementor**, ensuring seamless performance across all devices including desktops, tablets, and smartphones
  
