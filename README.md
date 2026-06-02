@@ -81,11 +81,11 @@ Manage the full WordPress deployment process from start to finish
 
 ##  Future Improvements
 
-Added an advanced search filter to streamline office listing results.
+Implemented an advanced search and filtering system to help users quickly find office spaces that match their specific requirements.
 
-Developed a user dashboard enabling clients to save and manage favorite spaces.
+Developed a personalized user dashboard allowing clients to save, organize, and manage their favorite office listings with ease.
 
-Integrated map-based search functionality using the Google Maps API.
+Integrated interactive map-based search functionality using the Google Maps API, enabling users to explore office spaces by location and improve search accuracy.
 
 ---
 
