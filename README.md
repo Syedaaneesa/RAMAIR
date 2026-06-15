@@ -83,11 +83,12 @@ I oversaw every stage of the project, from initial planning through to final dep
 
 ##  Future Improvements
 
-Implemented an advanced search and filtering system to help users quickly find office spaces that match their specific requirements.
+* Implemented an **advanced search and filtering system** that enables users to quickly discover office spaces based on their specific preferences and requirements.
 
-Developed a personalized user dashboard allowing clients to save, organize, and manage their favorite office listings with ease.
+* Developed a **personalized user dashboard** where clients can save, organize, and manage their favorite office listings for a more convenient and tailored experience.
 
-Integrated interactive map-based search functionality using the Google Maps API, enabling users to explore office spaces by location and improve search accuracy.
+* Integrated **Google Maps API-powered location search**, allowing users to explore office spaces through an interactive map interface and find properties more accurately based on location.
+
 
 ---
 
