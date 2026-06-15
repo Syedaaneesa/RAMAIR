@@ -11,19 +11,19 @@ This project features a modern, fully responsive WordPress website developed to 
 This project features a modern, fully customized WordPress website built to simplify office space discovery and enhance the search experience for businesses and professionals. With a sleek design, intuitive navigation, and responsive layouts, the platform delivers a seamless experience across all devices. Optimized for performance, usability, and engagement, it enables users to browse office listings quickly and efficiently through a clean, user-friendly interface, while smooth functionality and professional visuals create an enjoyable and effective browsing journey.
 
 **Key Highlights:**
-- Fully **responsive WordPress design** built using **Elementor**, ensuring seamless performance across all devices including desktops, tablets, and smartphones
- 
-- Optimized for **high speed and strong SEO performance**, focusing on faster load times, clean structure, and improved search engine visibility
- 
-- Integrated **custom post types** specifically tailored for property listings, allowing easy management, scalability, and organized content handling
-  
-- Designed with **smooth navigation and a clean, minimalist UI**, enhancing overall user experience and making browsing intuitive and engaging
-  
-- Implemented **custom CSS along with advanced page builder tweaks** to maintain strong brand consistency and achieve a unique, polished look
-  
-- Strong **attention to detail in layout, typography, spacing, and responsiveness**, ensuring a visually appealing and professional design across all screen sizes
-  
-- Carefully structured sections and elements to maintain **clarity, balance, and usability**, resulting in a user-friendly and conversion-focused interface
+* Fully responsive **WordPress website built with Elementor**, delivering a seamless experience across desktops, tablets, and mobile devices.
+
+* Optimized for **speed, performance, and SEO**, ensuring fast loading times, clean code structure, and improved search engine visibility.
+
+* Integrated **custom post types for property listings**, enabling efficient content management, scalability, and organized listing presentation.
+
+* Designed with a **clean, modern interface and intuitive navigation**, making it easy for users to browse and discover office spaces.
+
+* Enhanced with **custom CSS and advanced Elementor customizations** to create a unique, professional design aligned with brand identity.
+
+* Crafted with careful attention to **layout, typography, spacing, and responsiveness**, ensuring a polished and visually appealing user experience.
+
+* Structured content and page elements strategically to maximize **usability, engagement, and conversions** while maintaining clarity and consistency throughout the website.
 
 ---
 
