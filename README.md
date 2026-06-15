@@ -70,13 +70,13 @@ I oversaw every stage of the project, from initial planning through to final dep
 ##  Learning & Efforts
 
 * Strengthened expertise in **Elementor customization**, creating highly tailored and visually engaging WordPress experiences.
-* 
+  
 * Refined **mobile-first design strategies** to ensure optimal usability and responsiveness across all devices.
-* 
+  
 * Improved **website performance and page load speed**, delivering a faster and more seamless user experience.
-* 
+  
 * Maintained a **clean, modular, and consistent design system** to enhance scalability, usability, and long-term site management.
-* 
+
 * Managed the **entire WordPress development and deployment process**, from design implementation and customization to testing, optimization, and successful launch.
 
 ---
