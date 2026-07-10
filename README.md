@@ -99,6 +99,3 @@ If you’re seeking expert WordPress or Elementor solutions, I’d be glad to co
 ** Email:** saneesa@zeestmedia.com      
 ** Portfolio:** https://aneesa.zeestmedia.com
 
----
-##  Repository Structure
-
