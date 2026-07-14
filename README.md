@@ -3,7 +3,7 @@
 A modern, fully responsive WordPress website built with custom development and Elementor to simplify office space discovery. Featuring a clean design, intuitive navigation, fast performance, and seamless browsing across all devices, the platform delivers a professional, user-friendly experience that makes finding and exploring office spaces quick and effortless.
 
 ##  Live Preview
- [Explore live website](https://ramair.co/ramair-contractor-finder/)
+ Explore live website: [Explore live website](https://ramair.co/ramair-contractor-finder/)
 
 ---
 
@@ -96,6 +96,6 @@ I oversaw every stage of the project, from initial planning through to final dep
 If you’re seeking expert WordPress or Elementor solutions, I’d be glad to collaborate—feel free to get in touch.
 
 ** Developer:** Syeda Aneesa  
-** Email:** saneesa@zeestmedia.com      
+** Email:**  s.shujaat05@gmail.com      
 ** Portfolio:** https://aneesa.zeestmedia.com
 
