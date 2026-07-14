@@ -1,4 +1,4 @@
-#  Find Office Spaces – WordPress Project
+#  Find Office Spaces - WordPress Project
 
 A modern, fully responsive WordPress website built with custom development and Elementor to simplify office space discovery. Featuring a clean design, intuitive navigation, fast performance, and seamless browsing across all devices, the platform delivers a professional, user-friendly experience that makes finding and exploring office spaces quick and effortless.
 
