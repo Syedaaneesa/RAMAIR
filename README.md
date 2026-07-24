@@ -5,7 +5,6 @@ A modern, fully responsive WordPress website built with custom development and E
 ##  Live Preview
  Explore live website: [Explore live website](https://ramair.co/ramair-contractor-finder/)
 
----
 
 ##  Project Overview
 This project features a modern, fully customized WordPress website built to simplify office space discovery and enhance the search experience for businesses and professionals. With a sleek design, intuitive navigation, and responsive layouts, the platform delivers a seamless experience across all devices. Optimized for performance, usability, and engagement, it enables users to browse office listings quickly and efficiently through a clean, user-friendly interface, while smooth functionality and professional visuals create an enjoyable and effective browsing journey.
@@ -25,7 +24,6 @@ This project features a modern, fully customized WordPress website built to simp
 
 * Structured content and page elements strategically to maximize **usability, engagement, and conversions** while maintaining clarity and consistency throughout the website.
 
----
 
 ##  My Contributions
 
@@ -39,7 +37,6 @@ I oversaw every stage of the project, from initial planning through to final dep
 |  **Performance Optimization** | Optimized load speed, images, and scripts |
 |  **Testing & Deployment** | Tested across devices for responsiveness and user experience, then deployed live |
 
----
 
 ##  Tools & Technologies Used
 
@@ -53,7 +50,6 @@ I oversaw every stage of the project, from initial planning through to final dep
 - **SiteGround / Bluehost Hosting**
 - **Adobe XD / Figma (for Design Concept)**
 
----
 
 ##  Project Screenshots
 
@@ -65,7 +61,6 @@ I oversaw every stage of the project, from initial planning through to final dep
 ![Gallery Section](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7BD3ECAFF6-9DD5-4E49-8508-CC4B9990046D%7D.png)
 ![Home Page](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7B0B264AAE-121E-4745-8191-5FEAB2EFB30B%7D.png)
 
----
 
 ##  Learning & Efforts
 
@@ -79,7 +74,6 @@ I oversaw every stage of the project, from initial planning through to final dep
 
 * Managed the **entire WordPress development and deployment process**, from design implementation and customization to testing, optimization, and successful launch.
 
----
 
 ##  Future Improvements
 
@@ -90,7 +84,6 @@ I oversaw every stage of the project, from initial planning through to final dep
 * Integrated **Google Maps API-powered location search**, allowing users to explore office spaces through an interactive map interface and find properties more accurately based on location.
 
 
----
 
 ##  Contact
 If you’re seeking expert WordPress or Elementor solutions, I’d be glad to collaborate—feel free to get in touch.
