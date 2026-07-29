@@ -2,13 +2,13 @@
 
 A modern, fully responsive WordPress website designed to simplify office space discovery. Built with custom WordPress development and Elementor, the platform features an intuitive interface, fast performance, and seamless responsiveness across all devices, delivering a professional and user-friendly browsing experience.
 
----
+
 
 ## Live Preview
 
 **Website:** https://ramair.co/ramair-contractor-finder/
 
----
+
 
 ## Project Overview
 
@@ -26,7 +26,7 @@ Performance, usability, and SEO were prioritised throughout the development proc
 * Maintained consistent **typography, spacing, layouts, and responsiveness** across every page.
 * Structured content strategically to improve **engagement, accessibility, and conversions**.
 
----
+
 
 ## My Contributions
 
@@ -40,7 +40,7 @@ I managed the complete website development lifecycle, from planning and design t
 | Performance Optimisation | Improved loading speed through image optimisation, caching, and script optimisation.  |
 | Testing & Deployment     | Tested responsiveness across multiple devices and deployed the website to production. |
 
----
+
 
 ## Technologies Used
 
@@ -56,7 +56,7 @@ I managed the complete website development lifecycle, from planning and design t
 * SiteGround / Bluehost Hosting
 * Adobe XD / Figma
 
----
+
 
 ## Project Screenshots
 
@@ -68,7 +68,7 @@ I managed the complete website development lifecycle, from planning and design t
 | ![Location](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7B878390FA-86F6-4473-B70A-AD5BBB591AA3%7D.png)  | ![Gallery](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7BD3ECAFF6-9DD5-4E49-8508-CC4B9990046D%7D.png)  |
 | ![Home Page](https://github.com/Syedaaneesa/RAMAIR/blob/main/%7B0B264AAE-121E-4745-8191-5FEAB2EFB30B%7D.png) |                                                                                                             |
 
----
+
 
 ## Skills & Experience Gained
 
@@ -80,7 +80,7 @@ Throughout this project, I strengthened my expertise in:
 * Building scalable and maintainable WordPress websites.
 * Managing the complete WordPress development and deployment workflow.
 
----
+
 
 ## Future Enhancements
 
@@ -92,7 +92,7 @@ Potential improvements for future versions include:
 * Property comparison functionality.
 * Appointment booking and enquiry management.
 
----
+
 
 ## Contact
 
@@ -102,6 +102,6 @@ Looking for a custom WordPress website, Elementor customisation, or complete web
 **Email:** [s.shujaat05@gmail.com](mailto:s.shujaat05@gmail.com)
 **Portfolio:** https://aneesa.zeestmedia.com
 
----
+
 
 **If you found this project helpful, please consider giving the repository a star.**
